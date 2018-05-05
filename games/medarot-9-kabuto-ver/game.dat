@@ -1,0 +1,9 @@
+title = "Medarot 9: Kabuto Ver."
+description = "Medarot 9: Kabuto Version is the ninth installment of the Medarot series; an RPG series about battling each other with customizable robots. It was never released outside Japan."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000174E00"
+region = "jpn"
+release_date = "2015-12-24"
